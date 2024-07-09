@@ -10,3 +10,4 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+git clone https://github.com/YOUR-USERNAME/aws-elastic-beanstalk-express-js-sample
